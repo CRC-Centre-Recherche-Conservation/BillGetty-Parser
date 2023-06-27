@@ -1,4 +1,4 @@
-('/media/maxime/DATA/projet_crc/BillGetty_Parser/build/billgetty/PYZ-00.pyz',
+('/home/rayondemiel/projet_CRC/BillGetty-Parser/build/billgetty/PYZ-00.pyz',
  [('_compat_pickle', '/usr/lib/python3.10/_compat_pickle.py', 'PYMODULE'),
   ('_compression', '/usr/lib/python3.10/_compression.py', 'PYMODULE'),
   ('_py_abc', '/usr/lib/python3.10/_py_abc.py', 'PYMODULE'),
